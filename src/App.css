@@ -1,0 +1,18 @@
+ body{
+   
+   background-image: url("../src/purple.jpg"); 
+ }
+
+ .form__box
+ {  
+  margin-left: 30%;
+ }
+
+ .form-control
+ {
+    size : 20%;
+ }
+
+ h1{
+  color: red;
+ }
